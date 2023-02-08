@@ -60,13 +60,23 @@ e.g. `port ENV.fetch("PORT") { 3001 }`
 This API administrator can create an admin user through the rails console in the local environment. For example, in the console, run `rails c`, then in the console, you can create an admin user like below:
 `User.create(username: 'admin', password: 'admin', admin: true)`
 
+
 ## Author
 
-👤 **Divyesh Patel**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to connect anytime
+
+
 
 ## Contributing
 
